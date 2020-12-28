@@ -11,6 +11,5 @@ Here's what I am upto-
 - 👯 I’m looking to collaborate on a project.
 - 🤔 I’m looking for help with learning flutter.
 - 📫 Reach me at lakshsaini29@gmail.com or fill a form at http://lakshsaini.me/ .
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to beat people.
 
