@@ -16,6 +16,16 @@
 
 <!-- <img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/> -->
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laksh-saini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laksh-saini&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
