@@ -1,4 +1,4 @@
-![Laksh Saini Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Laksh Saini Banner](https://i.pinimg.com/originals/34/3f/17/343f17760afeb5f0f38173001529f830.jpg)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width='40' align="left"/><h2>Hey there! I'm Laksh Saini</h2>
 
