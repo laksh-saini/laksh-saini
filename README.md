@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track to become a full stack developer and designer.\
 ✍️ &nbsp;In my free time, I like to read books and talk to my friends :D.\
 💬 &nbsp;Feel free to reach out to me for any competition or volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/>
