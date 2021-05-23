@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/>
+<!-- <img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
