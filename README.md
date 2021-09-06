@@ -1,8 +1,8 @@
 <!-- ![Laksh Saini Banner](https://i.ibb.co/G2cbz0N/Light-Purple-and-White-Fashion-Back-to-Business-Landscape-Banner.jpg) -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width='40' align="left"/><h2>Hey there! I'm Laksh Saini</h2>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width='40' align="left"/><h2>Hey there! I'm Laksh Saini</h2> -->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Laksh saini -->
+## 👋 &nbsp;Hey there! I'm Laksh saini
 
 ### 👨🏻‍💻 &nbsp;About Me
 
