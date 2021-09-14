@@ -7,10 +7,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions to solve the problems of the community.\
-🎓 &nbsp;I'm currently learning flutter and design.\
-🌱 &nbsp;I'm on track to become a full stack developer and designer.\
-✍️ &nbsp;In my free time, I like to read books and talk to my friends :D.\
-💬 &nbsp;Feel free to reach out to me for any competition or volunteering, or just for some interesting discussion.\
+🌱 &nbsp;I'm on track to become a full stack developer.\
+✍️ &nbsp;In my free time, I like to read books and surf the web.\
+💬 &nbsp;Feel free to reach out to me for a collab or some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
@@ -21,7 +20,7 @@
 <p align="left">
 <a href="https://github.com/laksh-saini">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laksh-saini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laksh-saini&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laksh-saini&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
