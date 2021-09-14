@@ -58,9 +58,9 @@
 
 
 ```text
-JavaScript     29 mins             ███░░░░░░░     37.85%
-HTML           26 mins             ███░░░░░░░     33.7%
-Flutter        11 mins             ██░░░░░░░░     15.29%
+JavaScript     █████░░░░░     48.85%
+React          ███░░░░░░░     33.7%
+Flutter        ██░░░░░░░░     18.45%
 ```
 
 -----
