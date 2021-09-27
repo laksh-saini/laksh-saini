@@ -53,13 +53,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 
 </p>
-<h2>📊 Weekly development breakdown: </h2>
 
-
-```text
-JavaScript     █████░░░░░     48.85%
-React          ███░░░░░░░     33.7%
-Flutter        ██░░░░░░░░     18.45%
-```
-
------
