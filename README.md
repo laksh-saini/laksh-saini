@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.lakshsaini.tech/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<!-- <img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/> -->
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -23,6 +23,7 @@
 </a>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,13 +45,18 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- Actual text -->
 
-<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
-<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-</p>
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/
+[2]: https://www.linkedin.com/in/laksh-saini/
 
