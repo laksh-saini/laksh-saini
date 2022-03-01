@@ -7,11 +7,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions to solve the problems of the community.\
-🌱 &nbsp;I'm on track to become a full stack developer.\
 ✍️ &nbsp;In my free time, I like to read books and surf the web.\
 💬 &nbsp;Feel free to reach out to me for a collab or some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lakshsaini29@gmail.com! I'll try to respond as soon as I can.
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+📄 &nbsp;Please have a look at my [Résumé](https://www.lakshsaini.tech/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <!-- <img alt="Night Coding" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?size=338&ext=jpg" align="right"/> -->
 
@@ -43,6 +42,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; 
+
 
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -50,7 +51,6 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 
 </p>
 
