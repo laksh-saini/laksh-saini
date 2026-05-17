@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- A fully functional online clinic site<br>- Full-stack apps using React + Node.js  <br><br>👯 I’m looking to collaborate on  <br>- Hackathons and impactful tech projects  <br>- Open-source projects (especially in web/app dev)  <br><br>🤝 I’m looking for help with  <br>- System design & scalable backend architecture  <br>- Advanced DSA for placements  <br><br>🌱 I’m currently learning  <br>- Backend development (Node.js, APIs, databases)  <br>- DevOps basics & deployment  <br><br>💬 Ask me about  <br>- Flutter, React, Firebase  <br>- Hackathons & building projects from scratch  <br><br>⚡ Fun fact  <br>- I build better under pressure (most of my best work is from hackathons 🚀)
+I like building things.
+
+Right now, I'm working on an online clinic platform and experimenting with full-stack systems using React + Node.js.
+
+I enjoy hackathons, shipping projects fast, and collaborating on things that feel useful rather than resume filler.
+
+Currently learning more about backend systems, scalable architecture, DevOps, and grinding DSA when I have to.
+
+Tech I work with:
+`React` `Node.js` `Flutter` `Firebase`
+
+Usually building under deadline pressure for some reason.
 
 
 ## 🌐 Socials:
